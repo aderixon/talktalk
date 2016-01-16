@@ -37,6 +37,7 @@ socket (wasn't at home to test).
   6Mbps but varies widely and often interrupted, becoming unusably slow in
 evenings. Rang Talktalk and followed automated prompts but informed that
 their systems were down for maintenance and they were unable to log calls.
+By 8pm, line speed drops to < 1Mbps typical, as usual.
 
 ## Costs so far:
 
