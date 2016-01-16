@@ -7,7 +7,7 @@ of 30th Dec.
 
 * 30th Dec: phone line goes dead at midday, does not return.
 
-* 31st Dec: reported issue.
+* 31st Dec: reported issue under call ref. **INC000012924959**.
 
 * 2nd Jan: Openreach engineer attended, restored phone. Router initiated
   VDSL connection but no Internet service present (red light). Reported
