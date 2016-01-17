@@ -39,10 +39,17 @@ evenings. Rang Talktalk and followed automated prompts but informed that
 their systems were down for maintenance and they were unable to log calls.
 By 8pm, line speed drops to < 1Mbps typical, as usual.
 
-## Costs so far:
+## Costs so far
 
 * £130 xmas break on call allowance, unable to claim as unable to work
   online.
 
 * £14.50 4G data boost on Giffgaff and 3 mobiles to cover for lack of
   broadband.
+
+## Analysis
+
+This screenshot of the HG633 DSL connection status indicates the
+underlying issue: the line is running at ADSL instead of VDSL.
+
+!["Router screenshot"](router-dsl.png "screenshot"]
