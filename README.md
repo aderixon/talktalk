@@ -52,4 +52,4 @@ By 8pm, line speed drops to < 1Mbps typical, as usual.
 This screenshot of the HG633 DSL connection status indicates the
 underlying issue: the line is running at ADSL instead of VDSL.
 
-!["Router screenshot"](router-dsl.png "screenshot"]
+![Router screenshot](router-dsl.png "screenshot"]
