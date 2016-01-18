@@ -80,7 +80,5 @@ satisfactory.
 
 Since Talktalk have failed to provide the promised service
 to the specified standard from day one, they would appear to be
-in breach of contract. The contract could therefore be considered
-void, allowing me to sign a new one with another provider
-without penalty.
+in breach of contract. 
 
