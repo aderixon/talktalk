@@ -39,6 +39,12 @@ evenings. Rang Talktalk and followed automated prompts but informed that
 their systems were down for maintenance and they were unable to log calls.
 By 8pm, line speed drops to < 1Mbps typical, as usual.
 
+* 18th Jan: rang TT customer service again. Informed that fibre broadband still
+showing as not activated (note that this directly contradicts what I was told
+during call on 13th). Passed to Billing team who escalated the issue; told that
+an email would be sent in the next 24-48 hours with an activation date.
+Updated mobile number on contact details for future reference.
+
 ## Costs so far
 
 * £130 xmas break on call allowance, unable to claim as unable to work
@@ -50,6 +56,31 @@ By 8pm, line speed drops to < 1Mbps typical, as usual.
 ## Analysis
 
 This screenshot of the HG633 DSL connection status indicates the
-underlying issue: the line is running at ADSL instead of VDSL.
+underlying issue: the line is running as ADSL instead of VDSL.
 
 ![Router screenshot](router-dsl.png "screenshot")
+
+## What Talktalk can do to fix this
+
+* **Escalate** the fault and get the fibre line up asap; get a grip on
+this.
+
+* Offer appropriate compensation promptly, unasked, for the total and
+partial loss of service, for failing to meet the original go-live date
+and for repeated failures to resolve the problem.
+
+* Have someone in the UK **call me** to discuss this situation,
+explain why it occurred and what steps are being put in place to
+ensure it does not happen again.
+
+* Review my service again in 30 days time to ensure that it is still
+satisfactory.
+
+## Other options
+
+Since Talktalk have failed to provide the promised service
+to the specified standard from day one, they would appear to be
+in breach of contract. The contract could therefore be considered
+void, allowing me to sign a new one with another provider
+without penalty.
+
