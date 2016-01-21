@@ -51,6 +51,9 @@ because Openreach were unable to complete the installation. TT Case Manager
 will contact me on 21st with an update. (Note that this is almost word for
 word a repeat of information last given on 6th.)
 
+* 21st Jan: Case manager called mobile at 10:30, was cut off for unknown reason
+shortly after and has not attempted to call back.
+
 ## Costs so far
 
 * £130 xmas break on call allowance, unable to claim as unable to work
