@@ -52,9 +52,19 @@ will contact me on 21st with an update. (Note that this is almost word for
 word a repeat of information last given on 6th.)
 
 * 21st Jan: Case manager called mobile at 10:30, was cut off for unknown reason
-shortly after and has not attempted to call back.
+shortly after and has not attempted to call back.  
 Meanwhile, the stability of the existing ADSL connection has improved of late,
 and its performance no longer seems to stutter and die in the evenings.
+Email from Talktalk CEO's office promising a call tomorrow to discuss.
+
+* 22nd Jan: Waited until 3pm then rang Talktalk CEO's office number; left
+voicemail.  
+Checking router again now shows an ADSL2+ line standard with 11515
+download/1020 upload (~9Mbps effective from speed test) since a day and a
+half ago, which may explain why the connection has stabilised. Still not
+VDSL though.  
+Here's a [classic example](https://community.talktalk.co.uk/t5/Superpowered-Fibre-Broadband/HG633-No-option-for-VDSL-Only-ADSL2/td-p/1803452)
+of the joys of trying to get TT fibre broadband.
 
 ## Costs so far
 
