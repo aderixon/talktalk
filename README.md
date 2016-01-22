@@ -53,6 +53,8 @@ word a repeat of information last given on 6th.)
 
 * 21st Jan: Case manager called mobile at 10:30, was cut off for unknown reason
 shortly after and has not attempted to call back.
+Meanwhile, the stability of the existing ADSL connection has improved of late,
+and its performance no longer seems to stutter and die in the evenings.
 
 ## Costs so far
 
@@ -91,3 +93,7 @@ Since Talktalk have failed to provide the promised service
 to the specified standard from day one, they would appear to be
 in breach of contract. 
 
+Given that the current ADSL connection has now stabilised, and
+attempting to resolve the fibre issue could cause further disruption,
+Talktalk could revert the contract to Simple Broadband if both
+parties want an easy way out.
