@@ -24,6 +24,14 @@ able to complete it. Expected Openreach work to complete on 14th Jan but
 would call with update on 11th. Repeatedly said, "do not be worried" when
 told this delay was unacceptable and pressed for a firm delivery date.
 
+* 7th Jan: Unable to claim the 'free upgrade' offered by Talktalk in
+compensation for the hack and data loss that occurred to them back in
+October 2015. Online account, when I was finally able to access it
+remotely, said it couldn't be claimed until "your existing orders are
+processed" and was unable to complete the transaction on the phone due to
+the wait times (including queuing for customer support and then their
+mobile team).
+
 * 8th Jan: Internet service resumed at 4pm without notice but router
   showing ADSL\_g.dmt connection only with 8Mbps line speed (~3Mbps actual).
 Connection became unusably slow from around 9pm; this pattern has
