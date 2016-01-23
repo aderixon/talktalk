@@ -96,7 +96,8 @@ this.
 
 * Offer appropriate compensation promptly, unasked, for the total and
 partial loss of service, for failing to meet the original go-live date
-and for repeated failures to resolve the problem.
+and for repeated failures to resolve the problem. And throw in the free
+upgrade offer (free SIM) that we missed because of our service issues.
 
 * Have someone in the UK **call me** to discuss this situation,
 explain why it occurred and what steps are being put in place to
