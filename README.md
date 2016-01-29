@@ -74,6 +74,23 @@ VDSL though.
 Here's a [classic example](https://community.talktalk.co.uk/t5/Superpowered-Fibre-Broadband/HG633-No-option-for-VDSL-Only-ADSL2/td-p/1803452)
 of the joys of trying to get TT fibre broadband.
 
+* 29th Jan: Call from CEO's office. Explained that our local cabinet could
+not be provisioned due to capacity issues, and that Openreach had since been
+updating the call weekly with only a note to "review". Talktalk are escalating
+this to their "CEO provisioning team" (presumably UK-based) to chase due to the
+delay. TT will make a 'gesture' as compensation once provisioning is completed.
+It was an extensive and useful update; a shame this couldn't have been provided
+from the start.  
+Meanwhile, on a related note, a [story](http://itsecurity.co.uk/2016/01/3723/)
+broke yesterday about call centre workers being arrested at Talktalk's support
+parter Wipro in India. (The comments on the Register piece are also illuminating.)
+This confirms my feeling that not only is Wipro's work often poor, they're
+an active risk to Talktalk's customer base.  
+Also further [ongoing rumblings](http://zelo-street.blogspot.co.uk/2016/01/shapps-murdoch-grovel-rumbled.html),
+albeit partisan, about hiving off Openreach from BT, which
+looks worth serious consideration but not if it's just to give it
+to Sky. (Again, see comments on that post too.)
+
 ## Costs so far
 
 * £130 xmas break on call allowance, unable to claim as unable to work
@@ -92,16 +109,19 @@ underlying issue: the line is running as ADSL instead of VDSL.
 ## What Talktalk can do to fix this
 
 * **Escalate** the fault and get the fibre line up asap; get a grip on
-this.
+this. *Appears to be underway*
 
 * Offer appropriate compensation promptly, unasked, for the total and
 partial loss of service, for failing to meet the original go-live date
 and for repeated failures to resolve the problem. And throw in the free
 upgrade offer (free SIM) that we missed because of our service issues.
+*TBD but on the table*
 
 * Have someone in the UK **call me** to discuss this situation,
 explain why it occurred and what steps are being put in place to
 ensure it does not happen again.
+*They have now called but with Openreach involved, this will
+happen again to someone.*
 
 * Review my service again in 30 days time to ensure that it is still
 satisfactory.
