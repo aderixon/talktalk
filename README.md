@@ -103,6 +103,8 @@ scheduled for 11th Feb.
 * £14.50 4G data boost on Giffgaff and 3 mobiles to cover for lack of
   broadband.
 
+* Missed 'free upgrade' (see 7th Jan above).
+
 ## Analysis
 
 This screenshot of the HG633 DSL connection status indicates the
