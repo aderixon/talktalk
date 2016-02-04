@@ -91,6 +91,10 @@ albeit partisan, about hiving off Openreach from BT, which
 looks worth serious consideration but not if it's just to give it
 to Sky. (Again, see comments on that post too.)
 
+* 4th Feb: Update call from CEO's office, as promised: still waiting on Openreach
+who have escalated to their Copper team for review on 9th with a new update
+scheduled for 11th Feb.
+
 ## Costs so far
 
 * £130 xmas break on call allowance, unable to claim as unable to work
