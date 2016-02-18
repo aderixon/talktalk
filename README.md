@@ -91,9 +91,13 @@ albeit partisan, about hiving off Openreach from BT, which
 looks worth serious consideration but not if it's just to give it
 to Sky. (Again, see comments on that post too.)
 
-* 4th Feb: Update call from CEO's office, as promised: still waiting on Openreach
-who have escalated to their Copper team for review on 9th with a new update
-scheduled for 11th Feb.
+* 4th Feb: Update call from CEO's office, as promised: still waiting on
+Openreach who have escalated to their Copper team for review on 9th with a
+new update scheduled for 11th Feb.
+
+* 16th Feb: Further update, no change. To be escalated to Talktalk Network
+team to see if there's any way to prod Openreach into action.
+(Missed logging an update call in previous week with same status.)
 
 ## Costs so far
 
