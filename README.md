@@ -99,6 +99,11 @@ new update scheduled for 11th Feb.
 team to see if there's any way to prod Openreach into action.
 (Missed logging an update call in previous week with same status.)
 
+* 25th Feb: Further update. Openreach have said that the broadband
+is a 'non-essential service' so they will not give a date for resolution.
+While strictly correct, it's not an acceptable excuse for
+their lamentable service in this case. Further update on 10th March.
+
 ## Costs so far
 
 * £130 xmas break on call allowance, unable to claim as unable to work
