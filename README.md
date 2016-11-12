@@ -104,6 +104,27 @@ is a 'non-essential service' so they will not give a date for resolution.
 While strictly correct, it's not an acceptable excuse for
 their lamentable service in this case. Further update on 10th March.
 
+* March, catch-up: Talktalk wanted to close the call, given that Openreach
+still couldn't offer any deadline on resolving the exchange capacity
+issue. No further compensation was discussed. Given that the existing
+ADSL2 service was working satisfactorily (better than ever in fact, even
+if only 12Mbit/s), and I no longer felt the extra speed was worth the
+increased cost, I agreed to shelve it.
+
+* 3rd Nov: Incredibly, someone from Talktalk's offshore call centre has
+started calling me again with "updates" to my fibre broadband order,
+despite the fact there is apparently no change in the status from
+Openreach. I can only assume that this is because the broadband contract
+is due for renewal at the end of the year (at an increased price) and we
+have passed almost the entire contract without the fibre service that was
+originally purchased.
+I can't get through to them how little I care about this anymore.
+(Although lately the ADSL2 link has dropped to around 8Mbit/s and been
+somewhat flaky in the evenings.) It is _way_ too late to try saving this
+account now, even if Openreach were about to play ball and even if they
+were capable of switching our line to fibre without completely ballsing it
+up again - both of which I highly doubt.
+
 ## Costs so far
 
 * £130 xmas break on call allowance, unable to claim as unable to work
@@ -122,6 +143,10 @@ underlying issue: the line is running as ADSL instead of VDSL.
 ![Router screenshot](router-dsl.png "screenshot")
 
 ## What Talktalk can do to fix this
+
+* Update: **nothing**
+
+(Previously:)
 
 * **Escalate** the fault and get the fibre line up asap; get a grip on
 this. *Appears to be underway*
@@ -151,3 +176,4 @@ Given that the current ADSL connection has now stabilised, and
 attempting to resolve the fibre issue could cause further disruption,
 Talktalk could revert the contract to Simple Broadband if both
 parties want an easy way out.
+*This is basically what happened, though not explicitly stated.*
