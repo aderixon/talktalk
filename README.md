@@ -125,12 +125,12 @@ account now, even if Openreach were about to play ball and even if they
 were capable of switching our line to fibre without completely ballsing it
 up again - both of which I highly doubt.
 
-* 4th Dec: {#latest} With sheer bloodymindedness, Talktalk went ahead with
-moving our broadband over to the much-delayed and now-unwanted fibre VDSL
-connection on Mon 28th Nov. We expected them to screw it up, we waited for
-them to screw it up, and by jove, they comprehensively screwed it up.
-Although the phone line remained connected, which is some sort of minor
-triumph for them, and the router showed a full 39Kpbs VDSL link,
+* <a name="latest">4th Dec:</a> With sheer bloodymindedness, Talktalk went
+ahead with moving our broadband over to the much-delayed and now-unwanted
+fibre VDSL connection on Mon 28th Nov. We expected them to screw it up, we
+waited for them to screw it up, and by jove, they comprehensively screwed
+it up.  Although the phone line remained connected, which is some sort of
+minor triumph for them, and the router showed a full 39Kpbs VDSL link,
 we've had no Internet connection (i.e. layer 3 data) since then; i.e. the
 broadband light is green but the Internet light remains red. Four
 calls offering various excuses and little utility ("the line's OK, you need
