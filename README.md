@@ -125,46 +125,112 @@ account now, even if Openreach were about to play ball and even if they
 were capable of switching our line to fibre without completely ballsing it
 up again - both of which I highly doubt.
 
+* 4th Dec: {#latest} With sheer bloodymindedness, Talktalk went ahead with
+moving our broadband over to the much-delayed and now-unwanted fibre VDSL
+connection on Mon 28th Nov. We expected them to screw it up, we waited for
+them to screw it up, and by jove, they comprehensively screwed it up.
+Although the phone line remained connected, which is some sort of minor
+triumph for them, and the router showed a full 39Kpbs VDSL link,
+we've had no Internet connection (i.e. layer 3 data) since then; i.e. the
+broadband light is green but the Internet light remains red. Four
+calls offering various excuses and little utility ("the line's OK, you need
+our technical team; let's run a line test again; I've updated your notes
+to rule out further line tests, try switching the router off for 30 mins;
+I've run another line test and your line is at fault") led to an Openreach
+engineer attending on 1st Dec. After replacing the master socket and
+resetting the router to factory defaults (tip: backup your router config,
+folks), he spent two hours on the phone to the fibre team and trying a new
+line to the exchange before determining that the fault lay with Talktalk
+and always had done, since January. (Something to do with them never
+placing an order to allocate new S&amp;C tags - the tag we were supposed
+to have had been in use by another line for "over a year".) That was the
+last we heard until the weekend.  
+Anyway, last month we signed up with a new provider (thanks to the getout
+clause of TT increasing their prices), and they've finally
+been able to submit an Openreach order to take over the line (after three
+attempts) now that Talktalk no longer have an outstanding fibre order on
+it. Unbelievably, Talktalk *still* haven't been able to restore a working
+service for the two weeks that are left - and they still expect me to call
+them to 'resolve' it. Which shows we were right to leave, although it
+doesn't make the next two weeks with no prospect of broadband any better.  
+No, I won't be paying the final bill and I'll be really disappointed if
+they submit one.
+
+* 5th Dec: Reading through the replies to Talktalk's Twitter account, it
+appears this may also be part of a wider issue with TT's fibre service.
+
 ## Costs so far
 
 * £130 xmas break on call allowance, unable to claim as unable to work
   online.
 
-* £14.50 4G data boost on Giffgaff and 3 mobiles to cover for lack of
+* £32.50 4G data boost on Giffgaff and 3 mobiles to cover for lack of
   broadband.
 
-* Missed 'free upgrade' (see 7th Jan above).
+* Missed 'free upgrade' to compensate for their 2015 customer data hack
+(see 7th Jan above).
 
 ## Analysis
 
 This screenshot of the HG633 DSL connection status indicates the
-underlying issue: the line is running as ADSL instead of VDSL.
+original underlying issue: the line is running as ADSL instead of VDSL.
 
 ![Router screenshot](router-dsl.png "screenshot")
 
 ## What Talktalk can do to fix this
 
-* Update: **nothing**
+* **Nothing**
 
 (Previously:)
 
 * **Escalate** the fault and get the fibre line up asap; get a grip on
-this. *Appears to be underway*
+this.
 
 * Offer appropriate compensation promptly, unasked, for the total and
 partial loss of service, for failing to meet the original go-live date
 and for repeated failures to resolve the problem. And throw in the free
 upgrade offer (free SIM) that we missed because of our service issues.
-*TBD but on the table*
+*\[Promised but left unfulfilled.\]*
 
 * Have someone in the UK **call me** to discuss this situation,
 explain why it occurred and what steps are being put in place to
 ensure it does not happen again.
-*They have now called but with Openreach involved, this will
-happen again to someone.*
+*\[This did eventually happen over a number of weeks, but the upshot was
+that TT claimed Openreach said there was no fibre capacity in our cabinet
+and couldn't give a date to resolve this so the issue went nowhere.\]*
 
 * Review my service again in 30 days time to ensure that it is still
 satisfactory.
+
+## If Talktalk read this
+
+I know it's just the script and your agents have to go through it, but it
+was incredibly arrogant of you to beg for "just one more chance" when I
+called to cancel the service this week. If you had experienced the
+level of customer service and delivery that we have over the past eleven
+months, would *you* be willing to extend another chance??
+
+I don't blame your customer service agents in particular, who are
+generally polite and helpful even if their ability varies. I blame those
+who train them and provide the tools and procedures they must follow.
+I expect they receive a lot of abuse and rants while the executive sits
+remote and unconcered, cushioned by their undeserved salaries and bonuses,
+and I'm sorry about that. (By the way, those new lines in their scripts -
+"How can I make you smile today?" and "Thank you for being the best part
+of Talktalk" - are extremely unwelcome from an organisation responsible
+for so much ill-feeling.) Dido Harding: the only way you could be worth
+your enormous salary is if every penny of it were exchanged for manure.
+
+I've heard plenty of excuses and apologies by now, and while I don't doubt
+their intent, in the end they were all worth the paper they were written
+on. Clearly, you ain't coming back from this, but you still have a brief
+amount of time left to prove at least some basic competency in providing
+the service you sell. Just don't involve me, because I honestly don't
+think you're capable of fixing it and I'm through dealing with you. Find
+whatever piece of cable is loose at your end of our connection and plug it
+back in, if you can.
+
+Anyone else still using their services: don't walk, *run*.
 
 ## Other options
 
@@ -176,4 +242,5 @@ Given that the current ADSL connection has now stabilised, and
 attempting to resolve the fibre issue could cause further disruption,
 Talktalk could revert the contract to Simple Broadband if both
 parties want an easy way out.
-*This is basically what happened, though not explicitly stated.*
+*\[This is basically what happened for most of this year until they
+banjaxed it again, though not explicitly stated.\]*
